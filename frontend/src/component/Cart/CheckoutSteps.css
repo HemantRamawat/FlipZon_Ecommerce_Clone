@@ -1,0 +1,18 @@
+.MuiStepConnector-line {
+    display: none !important;
+  }
+  
+  .MuiStepConnector-root {
+    /* padding-top: 50px; */
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.349);
+  }
+  
+  
+  .MuiStepConnector-active,
+  .MuiStepConnector-completed {
+    background-color: #433CB5;
+  }
+  .stepper{
+      margin-top: 40px;
+  }
